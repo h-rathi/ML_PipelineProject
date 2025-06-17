@@ -1,0 +1,25 @@
+# Virtual environment
+myenv/
+
+# Egg-info metadata
+*.egg-info/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+
+# Environment variables
+*.env
+
+# Jupyter notebook checkpoints
+*.ipynb_checkpoints
